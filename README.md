@@ -16,7 +16,7 @@ Don't forget to ⭐️ this repository!
 
 First, clone this repository:
 ```
-git clone https://github.com/gouravkhunger/nextjs-birthday-wisher
+git clone https://github.com/RR-Sahoo/Devo-File.git
 ```
 Install the dependencies:
 ```
