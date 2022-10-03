@@ -2,7 +2,9 @@
     margin: 0;
     padding: 0;
 }
+
 /* Nav Bar */
+
 .nav{
     position: relative;
 }
@@ -59,14 +61,11 @@
     color: #6c0bec;
 }
 
-
 /* Main Content */
 
 .container-fluid {
     padding: 3% 15% 7%;
 }
-
-
 .content h2{
     margin-top: 100px;
     margin-bottom: 20px;
@@ -131,6 +130,7 @@
 }
 
 /* Footer */
+
 footer {
     text-align: center;
     margin-top: 5rem;
@@ -147,6 +147,7 @@ footer a:hover{
 }
 
 /* Profile Card */
+
 .profile-cards{
     margin-top: 100px;
 
@@ -209,35 +210,21 @@ footer a:hover{
     transform: translateX(0);
 }
 
-
-
-
  /* Media Query  */
 
  @media (max-width: 1400px) {
-
-
     .content-img{
         width: 450px;
     }
  }
 
  @media (max-width: 1200px) {
-    /* #title {
-        text-align: center;
-    } */
-
-    
     .content-img{
         width: 400px;
     }
-
     .content h2{
-        margin-top: 100px;
-        margin-bottom: 20px;
         width: 95%;
         font-size: 2.0rem;
-
     }
     .content p{
         font-size: 1.2rem;
